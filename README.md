@@ -19,4 +19,4 @@ The command-line investigation (`ls -la`) exposed the following misconfiguration
 
 ## Documentation Included
 * **linux_permissions_audit_report.pdf:** A comprehensive technical log documenting the full audit lifecycle, including terminal outputs, permission string deconstruction, and executed mitigation commands.
-*  **Current file permissions .docx** List of set permissions in the system
+*  **Current file permissions.pdf** A character mask of permissions is set before the audit starts
